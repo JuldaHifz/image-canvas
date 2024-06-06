@@ -1,8 +1,41 @@
-# React + Vite
+# Canvas Image
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Upload image locally and place it to the canvas. Able to resize the canvas and image
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Follow these steps to set up the project locally.
+
+### Steps
+
+1. Clone the repository or download locally:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+   cd your-repository-name
+
+   or
+
+   Code > download zip
+
+   ```
+
+2. Open the directory and run it through terminal or your prefered programming tools like VS Code.
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+
+   ```
+
+5. Open your browser and navigate to http://localhost:3000.
